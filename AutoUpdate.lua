@@ -63,7 +63,6 @@ local allSkins = {
    {'KarambitKnife_Weeb'},
    
    
-   {'Butterfly Knife_Black Dragon King'},
    {'Butterfly Knife_Dragon King'},
    {'RealButterfly_Cat'},
    {'RealButterfly_Weeb'},
