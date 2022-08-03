@@ -88,6 +88,7 @@ local allSkins = {
    {'Sports Glove_BloxFun'},
    {'Sports Glove_Dragon King'},
    {'Sports Glove_Inversion'},
+   {'Sports Glove_Omega'},
 }
 
 local isUnlocked
