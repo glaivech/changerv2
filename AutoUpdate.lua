@@ -82,7 +82,6 @@ local allSkins = {
    {'Handwraps_Guts'},
    {'Fingerless Glove_Spookiness'},
    {'Handwraps_Microbes'},
-   {'Sports Glove_Goddes'},
    {'Sports Glove_Freedom'},
    {'Sports Glove_BloxFun'},
    {'Sports Glove_Dragon King'},
