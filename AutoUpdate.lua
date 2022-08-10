@@ -44,6 +44,7 @@ local allSkins = {
    {'Pillow_Cute'},
    {'FishKnife_Mackerel'},
    {'Banana_Banner'},
+   {'EtherealBlade_Stock'},
    
 
    {'Bayonet_RSL'},
