@@ -3,6 +3,7 @@ local Client = getsenv(game.Players.LocalPlayer.PlayerGui.Client)
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
 local allSkins = {
+   {'AK47_True King'},
    {'AK47_BloxFun'},
    {'AK47_Kenzie'},
    {'AK47_EVOLVe Committee'},
@@ -38,6 +39,7 @@ local allSkins = {
    {'BanHammer_Moderator'},
    {'Darkheart_Tiredness'},
    {'Illumina_Princess'},
+   {'MoaiSpeed_Stock'},
    
 
    {'ReaverKnife_Reaver'},
@@ -45,6 +47,9 @@ local allSkins = {
    {'FishKnife_Mackerel'},
    {'Banana_Banner'},
    {'EtherealBlade_Stock'},
+   {'Skadi Daggers_Stock'},
+   {'Saccharine Saboteur_Stock'},
+   {'CodolKnife_Stock'},
    
 
    {'Bayonet_RSL'},
