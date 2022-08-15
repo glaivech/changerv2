@@ -40,10 +40,14 @@ local allSkins = {
    {'Darkheart_Tiredness'},
    {'Illumina_Princess'},
    {'MoaiSpeed_Stock'},
-   {'KarambitReaver_Stock'},
-   
+
 
    {'ReaverKnife_Reaver'},
+   {'RedReaver_Stock'},
+   {'BlackReaver_Stock'},
+   {'WhiteReaver_Stock'},
+   
+
    {'Pillow_Cute'},
    {'FishKnife_Mackerel'},
    {'Banana_Banner'},
