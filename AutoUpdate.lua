@@ -14,6 +14,8 @@ local allSkins = {
    {'AK47_Halo'},
    {'AK47_Outrunner'},
    {'M4A4_Jester'},
+   {'M4A4_BaconStyle'},
+   {'M4A4_Jujutsu Kaisen'},
    {'M4A4_Flashy Ride'},
    {'SG_Yltude'},
    {'SG_Knighthood'},
@@ -23,16 +25,22 @@ local allSkins = {
    {'AWP_Hika'},
    {'AWP_DEVILL'},
    {'AWP_Mxlu'},
-   {'AWP_Nikitos Games'},
    {'AWP_BloxFun'},
    {'DesertEagle_Mxlu'},
-   {'DesertEagle_Xmas'},
    {'DesertEagle_Dark'},
+   {'DesertEagle_Gar'},
+   {'DesertEagle_mSey'},
+   {'DesertEagle_Isla'},
    {'Glock_Hallows'},
    
 
    {'ButterflyGod_Stock'},
    {'TrueGold_Stock'},
+   
+   
+   {'Freedom SR_Sniper'},
+   {'CODOL M200_CheyTac'},
+   {'CODOL M200 Megu_Megumin'},
    
 
    {'BananaDev_Stock'}, 
@@ -83,6 +91,12 @@ local allSkins = {
 
    {'Classic Knife_Stock'},
    {'Classic Knife_Future'},
+   
+   
+   {'BowieKnife_Cat'},
+   
+   
+   {'KnifeCT_Zombies Skin'},
    
 
    {'Dot_Skin1'},
