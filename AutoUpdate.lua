@@ -38,7 +38,7 @@ local allSkins = {
    {'TrueGold_Stock'},
    
    
-   {'Freedom SR_Sniper'},
+   {'Freedom SR_Stock'},
    {'CODOL M200_CheyTac'},
    {'CODOL M200 Megu_Megumin'},
    
@@ -113,6 +113,7 @@ local allSkins = {
    {'Sports Glove_Dragon King'},
    {'Sports Glove_Inversion'},
    {'Sports Glove_Omega'},
+   {'Sports Glove_GlitchPop'},
 }
 
 local isUnlocked
