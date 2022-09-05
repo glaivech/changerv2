@@ -38,7 +38,7 @@ local allSkins = {
    {'TrueGold_Stock'},
    
    
-   {'Freedom SR_Stock'},
+   {'Freedom SR_Sniper'},
    {'CODOL M200_CheyTac'},
    {'CODOL M200 Megu_Megumin'},
    
@@ -49,6 +49,8 @@ local allSkins = {
    {'Illumina_Princess'},
    {'MoaiSpeed_Stock'},
    {'GlitchPop_Stock'},
+   {'ClownHammer_Circus'},
+   {'Crowbar_Stock'},
 
 
    {'ReaverKnife_Reaver'},
