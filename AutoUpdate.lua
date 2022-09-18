@@ -50,7 +50,7 @@ local allSkins = {
    {'MoaiSpeed_Stock'},
    {'GlitchPop_Stock'},
    {'ClownHammer_Circus'},
-   {'FalchionPrivate_Stock'},
+   {'FalchionPrivate_Late Night'},
 
 
    {'ReaverKnife_Reaver'},
